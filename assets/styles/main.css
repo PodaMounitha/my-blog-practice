@@ -1,0 +1,14 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  /* Override subscribe button for dark mode */
+  body.dark-mode .subscribe-btn {
+    background-color: #bb86fc;
+    color: #121212;
+  }
+  
+  body.dark-mode .subscribe-btn:hover {
+    background-color: #9a67ea;
+  }
