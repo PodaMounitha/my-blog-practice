@@ -1,0 +1,12 @@
+.subscribe-btn {
+    background-color: #007bff;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .subscribe-btn:hover {
+    background-color: #0056b3;
+  }
